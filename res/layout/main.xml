@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+    <TextView android:layout_width="fill_parent" android:text="@string/hello" android:layout_height="wrap_content" android:id="@+id/timeAtStart"></TextView>
+<Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="@string/StartButtonText" android:id="@+id/CurrentTime"></Button>
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="TextView" android:id="@+id/timeAtStop"></TextView>
+<Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/stopTimerButton" android:text="@string/StopButtonText"></Button>
+</LinearLayout>

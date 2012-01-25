@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CrossWalkActivity!</string>
+    <string name="app_name">CrossWalk</string>
+    <string name="Start">Start Timer</string>
+    <string name="StartButtonText">Start Timer</string>
+    <string name="StopButtonText">Stop Timer</string>
+</resources>
